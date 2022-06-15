@@ -5,7 +5,7 @@
 # Formatting
 
 All bash scripts auto-formatted with [`shfmt`](https://github.com/mvdan/sh)
-using the [VSCode plugin](https://marketplace.visualstudio.com/items?itemName=mkhl.shfmt).
+using the [VSCode plugin](https://marketplace.visualstudio.com/items?itemName=foxundermoon.shell-format).
 
 # License
 
