@@ -1,6 +1,6 @@
 # Bash scripts
 
-[![License](https://img.shields.io/npm/l/mjml-bullet-list?color=brightgreen&style=flat-square)](https://github.com/premail/mjml-bullet-list/blob/main/LICENSE)
+[![License](https://img.shields.io/npm/l/mjml-bullet-list?color=brightgreen&style=flat-square)](https://github.com/wgalyen/bash-scripts/blob/master/LICENSE)
 
 # Formatting
 
