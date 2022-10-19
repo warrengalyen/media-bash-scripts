@@ -49,6 +49,8 @@ export this directory to your `PATH` in `.bash_profile`, `.bashrc`, `.zshrc`, et
 export PATH="$HOME/bin:$PATH"
 ```
 
+You might need to `chmod +x *.sh` them.
+
 ## Dependencies
 
 All scripts note any dependencies required. Most image scripts require
